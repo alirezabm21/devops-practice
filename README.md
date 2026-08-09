@@ -5,7 +5,7 @@ DevOps concepts and tools.
 The project includes:
 - Docker
 - Docker compose
-- Linu Server
+- Linux Server
 - Kubernetes
   ## Architecture
   the basic architecture of the project is:
