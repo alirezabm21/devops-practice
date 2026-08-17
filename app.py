@@ -1,4 +1,4 @@
-From http.server import BaseHTTPRequesHandler , HTTPServer
+From http.server Import BaseHTTPRequesHandler , HTTPServer
 Class Handler(BaseHTTPRequestHandler):
 Def do_GET(self):
   self.send_response(200)
