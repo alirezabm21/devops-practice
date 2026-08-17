@@ -1,6 +1,6 @@
-from http.server import BaseHTTPRequesHandler , HTTPServer
-class Handler(BaseHTTPRequestHandler):
-def do_GET(self):
+From http.server import BaseHTTPRequesHandler , HTTPServer
+Class Handler(BaseHTTPRequestHandler):
+Def do_GET(self):
   self.send_response(200)
   self.send_header("content-type","tet/html")
   self.end_headers()
